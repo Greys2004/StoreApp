@@ -1,42 +1,44 @@
 <div align="center">
 
-# ✦ StoreApp — Store Management
+# ✦ StoreApp
 
-**Frontend for a full-stack store-management application backed by StoreAPI.**
+### Store management frontend
 
-![Documentation](https://img.shields.io/badge/Documentation-Updated-8B5CF6?style=for-the-badge) ![Project](https://img.shields.io/badge/Greys2004-Portfolio-4C1D95?style=for-the-badge)
+Frontend of a store administration application. Works alongside StoreAPI.
+
+![Tech](https://img.shields.io/badge/Purple_Future-Portfolio-974ECA?style=for-the-badge&labelColor=251139)
+
+[GitHub profile](https://github.com/Greys2004) · [Portfolio](https://greys2004.github.io/Curriculum/) · [Related application](https://github.com/Greys2004/StoreAPI)
 
 </div>
 
 ---
 
-## Overview
+## ✦ Highlights
 
-Frontend for a full-stack store-management application backed by StoreAPI.
+- Angular components, navigation and forms
+- Separate REST API integration
+- Nginx and Docker configuration
 
-## Technology
+## ⚙️ Technologies
 
-Angular 20, TypeScript, NG-ZORRO, Docker and Nginx.
+`Angular 20` · `TypeScript` · `NG-ZORRO` · `Docker`
 
-## Local development
-
-Clone this repository and enter its directory. Then run:
+## 🚀 Run locally
 
 ```bash
 npm ci
 npm start
 ```
 
-Requires Node.js/npm and locally configured backend environment.
+Requires Node.js and npm. Configure API endpoints and any required environment variables locally.
 
-## Related repository
+## 📌 Notes
 
-[StoreAPI](https://github.com/Greys2004/StoreAPI)
+Your application may require backend URLs, credentials or external services configured separately.
 
-## Notes
+Never commit production secrets or credentials.
 
-This README documents the project's verified technologies and intended use. Deployment credentials and application-specific environment values are not included. Do not commit API keys or production secrets.
+---
 
-## Author
-
-**Greys Alexa Almanza Vega** · [GitHub](https://github.com/Greys2004) · [Portfolio](https://greys2004.github.io/Curriculum/)
+<div align="center">**Greys Alexa Almanza Vega** · Software Engineer 💜</div>
